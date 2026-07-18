@@ -9,7 +9,11 @@
     ]
   },
   {
-    "listing": "/projects.html",
+    "listing": "/ja/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/grants.html",
     "items": []
   },
   {
@@ -22,19 +26,11 @@
     ]
   },
   {
-    "listing": "/people.html",
-    "items": []
-  },
-  {
-    "listing": "/ja/projects.html",
-    "items": []
-  },
-  {
     "listing": "/ja/index.html",
     "items": []
   },
   {
-    "listing": "/grants.html",
+    "listing": "/people.html",
     "items": []
   }
 ]
