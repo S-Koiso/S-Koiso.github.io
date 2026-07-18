@@ -4,21 +4,13 @@ description-meta: "Reach out to me with questions and comments"
 title-block-banner: false
 ---
 
-<center>
+<left>
 
-**Quarto Academic**
+Address: Warren G. Magnuson Health Sciences Center, 1959 NE Pacific St, Suite H375, Box 357630, Seattle, WA 98195
 
-School
+<!-- Phone: 510-666-7639 -->
 
-College
-
-University
-
-Address: 
-
-Phone: 
-
-E-mail: 
+E-mail: skoiso[at]uw.edu
 
 
-</center>
+</left>

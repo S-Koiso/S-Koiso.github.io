@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/posts.html</loc>
-    <lastmod>2025-06-06T22:28:53.960Z</lastmod>
+    <lastmod>2026-06-13T23:42:07.811Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/publications.html</loc>
-    <lastmod>2025-03-11T20:28:51.830Z</lastmod>
+    <lastmod>2026-06-13T23:42:07.825Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/projects.html</loc>
-    <lastmod>2025-02-10T13:31:20.796Z</lastmod>
+    <lastmod>2026-06-13T23:42:07.823Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/index.html</loc>
-    <lastmod>2025-06-06T22:34:03.868Z</lastmod>
+    <lastmod>2026-06-13T23:42:07.812Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/index.html</loc>
-    <lastmod>2025-02-08T20:29:49.171Z</lastmod>
+    <lastmod>2026-06-13T23:42:07.823Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/teaching.html</loc>
-    <lastmod>2025-02-10T15:14:33.036Z</lastmod>
+    <lastmod>2026-06-13T23:42:07.825Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/contact.html</loc>
@@ -30,14 +30,106 @@
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/index.html</loc>
-    <lastmod>2025-02-10T14:44:43.941Z</lastmod>
+    <lastmod>2026-06-13T23:42:07.812Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/index.html</loc>
-    <lastmod>2025-06-09T09:51:30.909Z</lastmod>
+    <lastmod>2026-06-13T23:42:07.807Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/people.html</loc>
-    <lastmod>2025-06-06T22:28:53.959Z</lastmod>
+    <lastmod>2026-06-13T23:42:07.807Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/quarto-academic-website-template/ja/teaching.html</loc>
+    <lastmod>2026-06-13T23:42:07.825Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/quarto-academic-website-template/ja/projects.html</loc>
+    <lastmod>2026-06-13T23:42:07.823Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/quarto-academic-website-template/ja/contact.html</loc>
+    <lastmod>2026-06-13T23:42:07.679Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/quarto-academic-website-template/ja/index.html</loc>
+    <lastmod>2026-06-13T23:42:07.807Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/quarto-academic-website-template/ja/publications.html</loc>
+    <lastmod>2026-06-13T23:42:07.825Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/index.html</loc>
+    <lastmod>2026-06-27T04:48:26.843Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/contact.html</loc>
+    <lastmod>2026-06-19T01:52:12.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/posts.html</loc>
+    <lastmod>2026-06-20T01:40:48.861Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/projects.html</loc>
+    <lastmod>2026-06-18T06:31:17.511Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/publications.html</loc>
+    <lastmod>2026-06-20T01:16:13.650Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/posts/paper-title/index.html</loc>
+    <lastmod>2026-06-18T05:19:02.300Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/posts/event-title/index.html</loc>
+    <lastmod>2026-06-13T23:42:07.812Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/posts/act061826/index.html</loc>
+    <lastmod>2026-06-18T05:30:21.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/teaching.html</loc>
+    <lastmod>2026-06-13T23:42:07.825Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/teaching_experience.html</loc>
+    <lastmod>2026-06-19T09:23:43.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/resources_toc.html</loc>
+    <lastmod>2026-06-20T02:26:53.143Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/ja/index.html</loc>
+    <lastmod>2026-06-13T23:42:07.807Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/projects/act061826/index.html</loc>
+    <lastmod>2026-06-18T06:30:25.844Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/posts/JapanInsureAI042026/index.html</loc>
+    <lastmod>2026-06-20T01:57:49.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/posts/DecisionScience042025/index.html</loc>
+    <lastmod>2026-06-20T01:56:56.894Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/posts/news-title/index.html</loc>
+    <lastmod>2026-06-13T23:42:07.812Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/posts/DisabilityLMICs/index.html</loc>
+    <lastmod>2026-06-20T01:57:25.317Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-koiso.github.io/grants.html</loc>
+    <lastmod>2026-06-18T06:31:17.511Z</lastmod>
   </url>
 </urlset>

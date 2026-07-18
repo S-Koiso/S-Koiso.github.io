@@ -1,0 +1,23 @@
+---
+title: "Decision Science: Policy Design and Clinical Decision-Making Through Health Economics"
+description: "At Boston Japanese Researchers Forum"
+author: "Satoshi Koiso"
+date: "2025-04-19"
+categories: [presentation]
+image: "image.JPG"
+#css: /custom.css
+#draft: true
+---
+
+On April 19, 2025, I presented this talk on Decision Science at the [Boston Japanese Researchers Forum](https://www.boston-researchers.jp/lecture/2025.php).
+
+The talk walks through three parts: what Decision Science is and the eight-step process used to analyze decisions, a hands-on example applying that process to a simple everyday choice, and real-world use cases showing how this approach has shaped national screening guidelines, vaccine recommendations, and drug pricing.
+
+Decision Science integrates economics, statistics, and behavioral science to support choices under uncertainty by explicitly weighing effects, costs, and the risk involved. Rather than relying on intuition alone, it builds simulation models including decision trees, Markov models, and others, which estimate outcomes like QALYs (quality-adjusted life years) and compare options using cost-effectiveness analysis. I worked through a flight-seat-class example step by step, including an audience exercise to elicit utility values, then showed how the same logic underlies decisions made by the USPSTF, the CDC's ACIP, and Japan's drug-pricing system. I closed by discussing where this approach runs into real limits when assumptions drive results, when utility is hard to measure, and when economic efficiency is not the right yardstick at all.
+
+{{< pdf DecisionScience_En.pdf width="100%" height=500 >}}
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

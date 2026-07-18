@@ -1,9 +1,9 @@
 
-    - path: https://drganghe.github.io/quarto-academic-site-examples.html
-      image: "/files/images/placeholder1.jpg"
-      title: "Quarto Academic Website Examples and Tips"
-      author: "Dr. Gang He"
-      description: "Examples and tips for Quarto Academic Website"
-      date: "2024-10-15"
-      categories: [news] 
+    - path: https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-data-science-methods-for-real-world-evidence-in-health/
+      image: "/files/images/data.jpg"
+      title: "TA for Online Certificate Programs at CHOICE Institute"
+      author: "Satoshi Koiso"
+      description: "I will be serving as a TA for the online certificate programs at CHOICE Institute, University of Washington. The course will be offered in 2026 academic year! Looking forward to working with the students and instructors!"
+      date: "2026-06-19"
+      categories: [news, teaching] 
 

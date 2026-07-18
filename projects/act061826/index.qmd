@@ -1,0 +1,18 @@
+---
+image: "featured.jpg"
+title: "?"
+author: 
+  - name: Satoshi Koiso
+subtitle: "*Physical Review*"
+description: "One is thus led to conclude that the description of reality as given by a wave function is not complete."
+started: "2025"
+ended: "2026"
+funding: "$0"
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+
+## Abstract

@@ -4,14 +4,14 @@
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTA for Online Certificate Programs at CHOICE Institute\n\n\n\n\n\n\nnews\n\n\nteaching\n\n\n\nI will be serving as a TA for the online certificate programs at CHOICE Institute, University of Washington. The course will be offered in 2026 academic year! Looking forward to working with the students and instructors!\n\n\n\n\n\nJun 19, 2026\n\n\nSatoshi Koiso\n\n\n\n\n\n\n\n\n\n\n\n\nCost-effectiveness Analysis of GLP-1 RA for Type 2 Diabetes Prevention among Teenagers in the U.S.\n\n\n\n\n\n\nnews\n\n\n\nISPOR 2026 at Philadelphia\n\n\n\n\n\nMay 17, 2026\n\n\nSatoshi Koiso\n\n\n\n\n\n\n\n\n\n\n\n\nJapan’s Health Insurance System and Reimbursement for AI Medical Devices\n\n\n\n\n\n\npresentation\n\n\n\nAt CHOICE Graduate Seminar, University of Washington\n\n\n\n\n\nApr 29, 2026\n\n\nSatoshi Koiso\n\n\n\n\n\n\n\n\n\n\n\n\nPandemic Response in Low- and Middle-Income Countries\n\n\nPalgrave Macmillan, Cham\n\n\n\npublication\n\n\n\nThe Palgrave Encyclopedia of Disability\n\n\n\n\n\nDec 6, 2025\n\n\nSatoshi Koiso\n\n\n\n\n\n\n\n\n\n\n\n\nDecision Science: Policy Design and Clinical Decision-Making Through Health Economics\n\n\n\n\n\n\npresentation\n\n\n\nAt Boston Japanese Researchers Forum\n\n\n\n\n\nApr 19, 2025\n\n\nSatoshi Koiso\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Notes: * co-first authors"
   },
   {
     "objectID": "publications.html#selected-work",
@@ -23,9 +23,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Grants/Awards/Fellowships",
     "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n        \n         \n          Title\n        \n         \n          Team\n        \n         \n          Funder\n        \n         \n          Description\n        \n         \n          Start\n        \n         \n          End\n        \n         \n          Funding\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nTitle\n\n\nTeam\n\n\nFunder\n\n\nDescription\n\n\nFunding\n\n\nStart\n\n\nEnd\n\n\n\n\n\n\n\n\n\nScholarships for Mid- to Long-Term Studies\n\n\nSatoshi Koiso\n\n\nFriend of UTokyo, Inc.\n\n\n \n\n\n$10000\n\n\n2025\n\n\n2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/news-title/index.html",
@@ -88,55 +88,272 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+    "text": "Address: Warren G. Magnuson Health Sciences Center, 1959 NE Pacific St, Suite H375, Box 357630, Seattle, WA 98195\n\nE-mail: skoiso[at]uw.edu"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "Satoshi Koiso",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository to bookmark it for future reference.\n\nFork this repository and rename it to YourGitHubUserName.github.io.\n\nUpdate the _quarto.yml file to configure your site’s basic settings.\n\nAdd or edit content in the following files and folders:\n\n/posts/ – posts about publications, news, events\n\nteaching.qmd – teaching information\n\nprojects.yml – research or other projects\n\npeople.qmd and /people/ – team or collaborators\n\n/files/ - profiles, images, pdfs, and includes\n\nRender and preview your site locally.\n\nPublish your site using GitHub Pages (make sure configuring your GitHub repository to publish from the docs directory, not the root folder).\nRefine and polish your content and design as needed.\n\n✅ Enjoy your new website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+    "text": "Univerisity\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n      Bluesky\n  \n  \n      ORCID\n  \n  \n      Google Scholar\n  \n  \n    \n     E-mail\n  \n\n  \n  \nI am a PhD student in Health Economics and Outcomes Research at the Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute at the University of Washington. My research focuses on health decision science and economic evaluation, with the goal of quantifying the value of evidence and translating uncertainty into actionable guidance for policymakers, particularly on behalf of populations whose voices are often absent from the data.\nMy area of interest centers on: \n\nEconomic evaluation for underrepresented populations worldwide, through the use of simulation modeling to estimate the potential effects of policies and clinical measures where empirical evidence is limited and decisions have historically been made anecdotally rather than through rigorous, evidence-based analysis\nMethodological development for emerging public health threats, including new health economic approaches suited to high-uncertainty, rapidly evolving challenges such as future pandemics, climate change, and artificial intelligence, where conventional methods struggle to keep pace.\n\nI am a strong believer in the power of diversity, equity, and inclusion, and have supported this commitment outside my professional work, including serving as a scientific committee member of the R-HTA in Low- and Middle-Income Countries chapter, and completing a solo cycling fundraising ride along Route 66 to support family and community health efforts in Nigeria. My aspiration is to help build a world where everyone, regardless of where they live or how readily their voice is currently heard, can pursue their fullest, healthiest life.\n\n\n\nResearch Intern, Health Division, Directorate for Employment, Labour, and Social Affairs, Organisation for Economic Co-operation and Development, Paris, France (Jun-Aug 2026)\nResearch Specialist, Medical Practice Evaluation Center, Massachusetts General Hospital, Boston, MA (Jul 2022-Jun 2025)\nResearch Collaborator, International Food Policy Research Institute (Jul-Nov 2022)\nGraduate Student Researcher, Center for Effective Global Action, University of California at Berkeley, Berkeley, CA (May 2021-May 2022)\nConsultant, Health & Public Service, Accenture Japan, Tokyo, Japan (Nov 2017-Aug 2020)\nPolicy Analyst/Project Coordinator, Ministry of Agriculture, Forestry and Fisheries, Tokyo, Japan (Apr 2016-Mar 2017)\n\n\n\n\n\nPhD in Health Economics & Outcomes Research, The Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute, School of Pharmacy, University of Washington, Seattle, WA (Sep 2025-Present)\nMaster of Development Practice, Goldman School of Public Policy, University of California, Berkeley, Berkeley, CA (May 2022)\nBachelor of Veterinary Science (DVM equivalent), The University of Tokyo, Tokyo, Japan (Mar 2016)"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
+    "title": "Satoshi Koiso",
     "section": "",
-    "text": "Researcher, Univerisity"
+    "text": "Research Intern, Health Division, Directorate for Employment, Labour, and Social Affairs, Organisation for Economic Co-operation and Development, Paris, France (Jun-Aug 2026)\nResearch Specialist, Medical Practice Evaluation Center, Massachusetts General Hospital, Boston, MA (Jul 2022-Jun 2025)\nResearch Collaborator, International Food Policy Research Institute (Jul-Nov 2022)\nGraduate Student Researcher, Center for Effective Global Action, University of California at Berkeley, Berkeley, CA (May 2021-May 2022)\nConsultant, Health & Public Service, Accenture Japan, Tokyo, Japan (Nov 2017-Aug 2020)\nPolicy Analyst/Project Coordinator, Ministry of Agriculture, Forestry and Fisheries, Tokyo, Japan (Apr 2016-Mar 2017)"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
+    "title": "Satoshi Koiso",
     "section": "",
-    "text": "PhD, Univerisity"
+    "text": "PhD in Health Economics & Outcomes Research, The Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute, School of Pharmacy, University of Washington, Seattle, WA (Sep 2025-Present)\nMaster of Development Practice, Goldman School of Public Policy, University of California, Berkeley, Berkeley, CA (May 2022)\nBachelor of Veterinary Science (DVM equivalent), The University of Tokyo, Tokyo, Japan (Mar 2016)"
   },
   {
     "objectID": "index.html#recent-posts",
     "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
+    "title": "Satoshi Koiso",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Recent Posts\n\n\n\n\n\n\n\n\n\n\n\nTA for Online Certificate Programs at CHOICE Institute\n\n\n\nJun 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCost-effectiveness Analysis of GLP-1 RA for Type 2 Diabetes Prevention among Teenagers in the U.S.\n\n\n\nMay 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJapan’s Health Insurance System and Reimbursement for AI Medical Devices\n\n\n\nApr 29, 2026\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
   },
   {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#team",
     "href": "people.html#team",
     "title": "People",
     "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#alumni",
     "href": "people.html#alumni",
     "title": "People",
     "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n        \n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "ja/teaching.html",
+    "href": "ja/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+  },
+  {
+    "objectID": "ja/teaching.html#class-1",
+    "href": "ja/teaching.html#class-1",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+  },
+  {
+    "objectID": "ja/teaching.html#class-2",
+    "href": "ja/teaching.html#class-2",
+    "title": "Teaching",
+    "section": "Class 2",
+    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
+  },
+  {
+    "objectID": "ja/teaching.html#class-3",
+    "href": "ja/teaching.html#class-3",
+    "title": "Teaching",
+    "section": "Class 3",
+    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
+  },
+  {
+    "objectID": "ja/projects.html",
+    "href": "ja/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Title\n\n\nTeam\n\n\nFunder\n\n\nDescription\n\n\nFunding\n\n\nStart\n\n\nEnd\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "ja/contact.html",
+    "href": "ja/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+  },
+  {
+    "objectID": "ja/index.html",
+    "href": "ja/index.html",
+    "title": "Quarto Academic, PhD",
+    "section": "",
+    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository to bookmark it for future reference.\n\nFork this repository and rename it to YourGitHubUserName.github.io.\n\nUpdate the _quarto.yml file to configure your site’s basic settings.\n\nAdd or edit content in the following files and folders:\n\n/posts/ – posts about publications, news, events\n\nteaching.qmd – teaching information\n\nprojects.yml – research or other projects\n\npeople.qmd and /people/ – team or collaborators\n\n/files/ - profiles, images, pdfs, and includes\n\nRender and preview your site locally.\n\nPublish your site using GitHub Pages (make sure configuring your GitHub repository to publish from the docs directory, not the root folder).\nRefine and polish your content and design as needed.\n\n✅ Enjoy your new website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+  },
+  {
+    "objectID": "ja/index.html#experience",
+    "href": "ja/index.html#experience",
+    "title": "Quarto Academic, PhD",
+    "section": "",
+    "text": "Researcher, Univerisity"
+  },
+  {
+    "objectID": "ja/index.html#education",
+    "href": "ja/index.html#education",
+    "title": "Quarto Academic, PhD",
+    "section": "",
+    "text": "PhD, Univerisity"
+  },
+  {
+    "objectID": "ja/index.html#recent-posts",
+    "href": "ja/index.html#recent-posts",
+    "title": "Quarto Academic, PhD",
+    "section": "Recent Posts",
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
+  },
+  {
+    "objectID": "ja/publications.html",
+    "href": "ja/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+  },
+  {
+    "objectID": "ja/publications.html#selected-work",
+    "href": "ja/publications.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-journals",
+    "href": "publications.html#peer-reviewed-journals",
+    "title": "Publications",
+    "section": "Peer-reviewed Journals",
+    "text": "Peer-reviewed Journals\n\nK. Ravishankar, K.E. Mace, S. Koiso, A.D. Ridpath, E. Gulbas, J. Thwing, R.C. LaRocque, S. Williams, E.T. Ryan, T.S. Brown, E.P. Hyle. Mapping hospitals that treat severe malaria cases in the United States: Evidence to inform health systems strategies for intravenous artesunate supply. Clinical Infectious Diseases, 2026;ciag139. doi:10.1093/cid/ciag139 \n\n\n\nS. Koiso, H. Lee, A.L. Ciaranello, M.S. Jalali, K.A. Freedberg, E.T. Ryan, R.C. LaRocque, E.P. Hyle. Effect of containment strategies against respiratory diseases on infections imported via international travel to the USA: a modeling study. BMJ Open, 2026;16:e105013. doi:10.1136/bmjopen-2025-105013 \n\n\n\nT. Stanic*, S. Koiso*, N.F. Fields, A.T. Walker, N.M. Mulroy, E.T. Ryan, R.C. LaRocque, E.P. Hyle. Economic value of pre-travel health interventions for communicable diseases in international travellers. Journal of Travel Medicine, 2025;32(7):taaf053. doi:10.1093/jtm/taaf053 \n\n\n\nS. Koiso, E. Gulbas, L. Dike, N.M. Mulroy, A.L. Ciaranello, K.A. Freedberg, M.S. Jalali, E.T. Ryan, R.C. LaRocque, A.T. Walker, E.P. Hyle. Modeling approaches to inform travel-related policies for COVID-19 containment: a scoping review and future directions. Travel Medicine and Infectious Disease, 2024;62:102730. doi:10.1016/j.tmaid.2024.102730 \n\n\n\nL. Kakoullis, R. Steffen, M. Goeijenbier, A. Osterhaus, S.R. Rao, S. Koiso, E.P. Hyle, E.T. Ryan, R.C. LaRocque, L.H. Chen. Influenza: seasonality and travel-related considerations. Journal of Travel Medicine, 2023;30(5):taad102. doi:10.1093/jtm/taad102"
+  },
+  {
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
+    "title": "Publications",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nE.P. Hyle, L. Ang, G. Luu, P. Kasaie, D. Dai, S. Koiso, J. Phelan, F. Ebem, C. Duggan, E. Humes, P.E. Sax, L. Gerace, J. Giardina, E.J. Orav, A.M. Neilan, A. Pandya, J.F. Figueroa, K.N. Althoff, K.A. Freedberg. Costs associated with increasing numbers of Medicare beneficiaries with HIV aged 65 years and older from 2026 to 2035. medRxiv, 2025. doi:10.64898/2025.12.19.25342703 [Accepted by JAMA Network Open] \n\n\n\nM. Walker, A. Huang, S. Asman, S. Baird, L. Fernald, J. Hamory, F.H. de la Guardia, S. Koiso, M. Kremer, M. Krupoff, M. Layvant, E. Ochieng, P. Suri, E. Miguel. Intergenerational Child Mortality Impacts of Deworming: Experimental Evidence from Two Decades of the Kenya Life Panel Survey. NBER Working Paper, no. 31162. 2023. [Accepted by American Economic Journal: Applied Economics]"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nK. Ravishankar, K.E. Mace, S. Koiso, A.D. Ridpath, E. Gulbas, J. Thwing, R.C. LaRocque, S. Williams, E.T. Ryan, T.S. Brown, E.P. Hyle. Mapping hospitals that treat severe malaria cases in the United States: Evidence to inform health systems strategies for intravenous artesunate supply. Clinical Infectious Diseases, 2026;ciag139. doi:10.1093/cid/ciag139 \n\n\n\n\n\nS. Koiso, H. Lee, A.L. Ciaranello, M.S. Jalali, K.A. Freedberg, E.T. Ryan, R.C. LaRocque, E.P. Hyle. Effect of containment strategies against respiratory diseases on infections imported via international travel to the USA: a modeling study. BMJ Open, 2026;16:e105013. doi:10.1136/bmjopen-2025-105013 \n\n\n\n\n\nT. Stanic*, S. Koiso*, N.F. Fields, A.T. Walker, N.M. Mulroy, E.T. Ryan, R.C. LaRocque, E.P. Hyle. Economic value of pre-travel health interventions for communicable diseases in international travellers. Journal of Travel Medicine, 2025;32(7):taaf053. doi:10.1093/jtm/taaf053 \n\n\n\n\n\nS. Koiso, E. Gulbas, L. Dike, N.M. Mulroy, A.L. Ciaranello, K.A. Freedberg, M.S. Jalali, E.T. Ryan, R.C. LaRocque, A.T. Walker, E.P. Hyle. Modeling approaches to inform travel-related policies for COVID-19 containment: a scoping review and future directions. Travel Medicine and Infectious Disease, 2024;62:102730. doi:10.1016/j.tmaid.2024.102730 \n\n\n\n\n\nL. Kakoullis, R. Steffen, M. Goeijenbier, A. Osterhaus, S.R. Rao, S. Koiso, E.P. Hyle, E.T. Ryan, R.C. LaRocque, L.H. Chen. Influenza: seasonality and travel-related considerations. Journal of Travel Medicine, 2023;30(5):taad102. doi:10.1093/jtm/taad102"
+  },
+  {
+    "objectID": "publications.html#other-works",
+    "href": "publications.html#other-works",
+    "title": "Publications",
+    "section": "Other Works",
+    "text": "Other Works\n\nBook chapter: S. Koiso. (2026). Pandemic Responses in Low- and Middle-Income Countries. In: Bennett, G., Goodall, E. (eds) The Palgrave Encyclopedia of Disability. Palgrave Macmillan, Cham. doi:10.1007/978-3-031-40858-8_476-1 \n\n\n\nEditorial: S. Koiso, E.P. Hyle. Cost-Effectiveness of the 2023 to 2024 COVID-19 Booster Vaccine-Reducing Barriers to Access. JAMA Network Open. 2025 Aug 1;8(7):e2523695. doi:10.1001/jamanetworkopen.2025.23695"
+  },
+  {
+    "objectID": "posts/act061826/index.html#abstract",
+    "href": "posts/act061826/index.html#abstract",
+    "title": "?",
+    "section": "Abstract",
+    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "posts/act061826/index.html#links",
+    "href": "posts/act061826/index.html#links",
+    "title": "?",
+    "section": "Links",
+    "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "teaching_experience.html#university-of-washington",
+    "href": "teaching_experience.html#university-of-washington",
+    "title": "Teaching Experience",
+    "section": "University of Washington",
+    "text": "University of Washington\n\nCertificate in Data Science Methods for Real-World Evidence in Health\n\nTeaching Assistant | School of Pharmacy | Autumn 2026, Winter 2027, Spring 2027 (Scheduled) | Leana de la Torre\n\nCertificate in Health Economics, Health Technology Assessment, and Market Access\n\nTeaching Assistant | School of Pharmacy | Autumn 2026, Winter 2027, Spring 2027 (Scheduled) | Leana de la Torre\n\nSpecial topic lecture: Regression methods for health care cost and resource utilization\n\nTeaching Assistant | School of Pharmacy | Jan 2026 | Prof. Anirban Basu & Prof. Noemi Kreif"
+  },
+  {
+    "objectID": "teaching_experience.html#others",
+    "href": "teaching_experience.html#others",
+    "title": "Teaching Experience",
+    "section": "Others",
+    "text": "Others\n\nR Data Visualization at R Foundations and Introduction to R-HTA Modelling\n\nInstructor | R-HTA in LMICs | April 2025"
+  },
+  {
+    "objectID": "resources_toc.html",
+    "href": "resources_toc.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+  },
+  {
+    "objectID": "resources_toc.html#class-1",
+    "href": "resources_toc.html#class-1",
+    "title": "Resources",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+  },
+  {
+    "objectID": "resources_toc.html#class-2",
+    "href": "resources_toc.html#class-2",
+    "title": "Resources",
+    "section": "Class 2",
+    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
+  },
+  {
+    "objectID": "resources_toc.html#class-3",
+    "href": "resources_toc.html#class-3",
+    "title": "Resources",
+    "section": "Class 3",
+    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
+  },
+  {
+    "objectID": "projects/act061826/index.html#abstract",
+    "href": "projects/act061826/index.html#abstract",
+    "title": "?",
+    "section": "Abstract",
+    "text": "Abstract"
+  },
+  {
+    "objectID": "posts/JapanInsureAI042026/index.html",
+    "href": "posts/JapanInsureAI042026/index.html",
+    "title": "Japan’s Health Insurance System and Reimbursement for AI Medical Devices",
+    "section": "",
+    "text": "On April 29, 2026, I presented this talk on Japan’s health insurance system and reimbursement for AI medical devices at the CHOICE Graduate Seminar, University of Washington.\nThe talk walks through three parts: an overview of how Japan’s public health insurance system is structured and financed, how medical services, drugs, and devices are approved and priced under the national fee schedule, and how AI medical devices fit or struggle to fit into that existing framework.\nJapan provides near-universal health coverage, but an aging population and shrinking workforce are putting growing pressure on its sustainability. AI medical devices are emerging as a potential tool to ease labor shortages in healthcare, but their intangible and evolving nature makes them hard to evaluate under a system built for fixed-price drugs and devices. Drawing on two real use cases, I discussed how regulators and payers are currently improvising solutions, and where the open questions remain.\nDownload PDF file."
+  },
+  {
+    "objectID": "posts/DecisionScience042025/index.html",
+    "href": "posts/DecisionScience042025/index.html",
+    "title": "Decision Science: Policy Design and Clinical Decision-Making Through Health Economics",
+    "section": "",
+    "text": "On April 19, 2025, I presented this talk on Decision Science at the Boston Japanese Researchers Forum.\nThe talk walks through three parts: what Decision Science is and the eight-step process used to analyze decisions, a hands-on example applying that process to a simple everyday choice, and real-world use cases showing how this approach has shaped national screening guidelines, vaccine recommendations, and drug pricing.\nDecision Science integrates economics, statistics, and behavioral science to support choices under uncertainty by explicitly weighing effects, costs, and the risk involved. Rather than relying on intuition alone, it builds simulation models including decision trees, Markov models, and others, which estimate outcomes like QALYs (quality-adjusted life years) and compare options using cost-effectiveness analysis. I worked through a flight-seat-class example step by step, including an audience exercise to elicit utility values, then showed how the same logic underlies decisions made by the USPSTF, the CDC’s ACIP, and Japan’s drug-pricing system. I closed by discussing where this approach runs into real limits when assumptions drive results, when utility is hard to measure, and when economic efficiency is not the right yardstick at all.\nDownload PDF file."
+  },
+  {
+    "objectID": "posts/DisabilityLMICs/index.html#abstract",
+    "href": "posts/DisabilityLMICs/index.html#abstract",
+    "title": "Pandemic Response in Low- and Middle-Income Countries",
+    "section": "Abstract",
+    "text": "Abstract\nThe COVID-19 pandemic exposed and exacerbated pre-existing inequities in health systems worldwide, disproportionately affecting people with disabilities. In low- and middle-income countries (LMICs), these challenges were intensified by limited resources, underdeveloped or weakly enforced legal protections, fragile health infrastructure, and pervasive social stigma. As a result, people with disabilities frequently encountered barriers to timely information, preventive measures, healthcare services, and economic stability. These problems were compounded by a lack of political representation, scarcity of disability-disaggregated data, and the competing priorities that characterize policymaking during emergencies. Current advocacy for disability inclusion in pandemics often relies on humanitarian or human-rights rhetoric. While morally compelling, such arguments may have limited influences on policymaking in emergency contexts, where policymakers must prioritize among multiple urgent demands. This entry, therefore, advances pragmatic arguments for disability-inclusive pandemic responses, emphasizing their potential public health advantages, such as reducing severe infections, secondary transmissions, and outbreaks in care facilities, and economic advantages, including lower long-term healthcare costs and improved workforce participation. Organizations of Persons with Disabilities (OPDs) emerge as critical actors in bridging the gap between people with disabilities and policymakers. By gathering first-hand data, articulating their unmet needs, and demonstrating the broader benefits of inclusive strategies, OPDs can help integrate disability considerations into emergency public health planning. Strengthening disability-inclusive approaches is essential not only for safeguarding the rights of people with disabilities but also for enhancing the equity, resilience, and efficiency of health systems in LMICs in the face of future pandemics and public health emergencies."
+  },
+  {
+    "objectID": "posts/DisabilityLMICs/index.html#links",
+    "href": "posts/DisabilityLMICs/index.html#links",
+    "title": "Pandemic Response in Low- and Middle-Income Countries",
+    "section": "Links",
+    "text": "Links\nPublished chapter"
+  },
+  {
+    "objectID": "posts/DisabilityLMICs/index.html",
+    "href": "posts/DisabilityLMICs/index.html",
+    "title": "Pandemic Response in Low- and Middle-Income Countries",
+    "section": "",
+    "text": "title: “Pandemic Response in Low- and Middle-Income Countries” author: “Satoshi Koiso” date: “2025-12-06” categories: [book-chapter] citation: type: chapter title: “Pandemic Response in Low- and Middle-Income Countries” container-title: “The Palgrave Encyclopedia of Disability” editor: - family: Bennett given: G. - family: Goodall given: E. publisher: “Palgrave Macmillan” publisher-place: “Cham” issued: “2026” available-date: “2025-12-06” isbn: “978-3-031-40858-8” doi: “10.1007/978-3-031-40858-8_476-1” url: “https://doi.org/10.1007/978-3-031-40858-8_476-1” google-scholar: true"
+  },
+  {
+    "objectID": "grants.html",
+    "href": "grants.html",
+    "title": "Grants/Awards/Fellowships",
+    "section": "",
+    "text": "Order By\n       Default\n         \n        \n         \n          Title\n        \n         \n          Team\n        \n         \n          Funder\n        \n         \n          Description\n        \n         \n          Start\n        \n         \n          End\n        \n         \n          Funding\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nTitle\n\n\nTeam\n\n\nFunder\n\n\nDescription\n\n\nFunding\n\n\nStart\n\n\nEnd\n\n\n\n\n\n\n\n\n\nScholarships for Mid- to Long-Term Studies\n\n\nSatoshi Koiso\n\n\nFriend of UTokyo, Inc.\n\n\n \n\n\n$10000\n\n\n2025\n\n\n2026\n\n\n\n\n\nNo matching items"
   }
 ]

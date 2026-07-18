@@ -5,60 +5,31 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Quarto Academic</title>
-<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
-<atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
-<description>Quarto Academic Website Template adapted by Dr. Gang He</description>
+<title>Satoshi Koiso</title>
+<link>https://s-koiso.github.io/posts.html</link>
+<atom:link href="https://s-koiso.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Quarto Academic Website Template adapted by Satoshi Koiso</description>
 <image>
 <url>https://quarto.org/quarto.png</url>
-<title>Quarto Academic</title>
-<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
+<title>Satoshi Koiso</title>
+<link>https://s-koiso.github.io/posts.html</link>
 </image>
-<generator>quarto-1.7.22</generator>
-<lastBuildDate>Tue, 15 Oct 2024 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Fri, 19 Jun 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
+  <title>TA for Online Certificate Programs at CHOICE Institute</title>
+  <link>https://s-koiso.github.io/</link>
+  <description>I will be serving as a TA for the online certificate programs at CHOICE Institute, University of Washington. The course will be offered in 2026 academic year! Looking forward to working with the students and instructors!</description>
   <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
-  <pubDate>Tue, 15 Oct 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
+  <category>teaching</category>
+  <guid>https://s-koiso.github.io/</guid>
+  <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://s-koiso.github.io/files/images/data.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Event item</title>
-  <dc:creator>Event </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-
- ]]></description>
-  <category>event</category>
-  <category>presentation</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</guid>
-  <pubDate>Tue, 03 Sep 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" medium="image"/>
-</item>
-<item>
-  <title>News item</title>
-  <dc:creator>News </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</link>
+  <title>Cost-effectiveness Analysis of GLP-1 RA for Type 2 Diabetes Prevention among Teenagers in the U.S.</title>
+  <dc:creator>Satoshi Koiso</dc:creator>
+  <link>https://s-koiso.github.io/posts/ISPOR052026/</link>
   <description><![CDATA[ 
 
 
@@ -66,7 +37,9 @@ https://quarto.org/docs/authoring/includes.html
 
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>About the news</p>
+<p>I’ll be presenting a poster on cost-effectiveness analysis of GLP-1 RA for type 2 diabetes prevention among teenagers at <a href="https://www.ispor.org/heor-resources/presentations-database/presentation-cti/ispor-2026/poster-session-4-3/cost-effectiveness-analysis-of-glp-1-ra-to-prevent-type-2-diabetes-among-teenagers-in-the-united-states">ISPOR 2026 in Philadelphia, PA</a>, this May.</p>
+<p>Using a Markov model, we projected 10-year outcomes for a simulated population of US teenagers with overweight and obesity, comparing no intervention against one year of liraglutide, orlistat, or metformin treatment. We evaluated each strategy’s effects on obesity, prediabetes, and diabetes rates, along with QALYs, costs, and cost-effectiveness from both healthcare and societal perspectives.</p>
+<p>Liraglutide produced the largest health gains but isn’t cost-effective at current prices, while metformin emerged as the more practical, cost-effective option for expanding insurance coverage of obesity treatment in this age group. Full methods and results are in the poster, happy to discuss in more detail at the session or by message.</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -83,16 +56,46 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</guid>
-  <pubDate>Mon, 24 Jun 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder3.JPG" medium="image"/>
+  <guid>https://s-koiso.github.io/posts/ISPOR052026/</guid>
+  <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://s-koiso.github.io/posts/ISPOR052026/GLP1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Can quantum-mechanical description of physical reality be considered complete?</title>
-  <dc:creator>Albert Einstein</dc:creator>
-  <dc:creator>Boris Podolsky</dc:creator>
-  <dc:creator>Nathan Rosen</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</link>
+  <title>Japan’s Health Insurance System and Reimbursement for AI Medical Devices</title>
+  <dc:creator>Satoshi Koiso</dc:creator>
+  <link>https://s-koiso.github.io/posts/JapanInsureAI042026/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>On April 29, 2026, I presented this talk on Japan’s health insurance system and reimbursement for AI medical devices at <a href="https://sop.washington.edu/choice/seminars-events/choice-graduate-seminar/">the CHOICE Graduate Seminar, University of Washington</a>.</p>
+<p>The talk walks through three parts: an overview of how Japan’s public health insurance system is structured and financed, how medical services, drugs, and devices are approved and priced under the national fee schedule, and how AI medical devices fit or struggle to fit into that existing framework.</p>
+<p>Japan provides near-universal health coverage, but an aging population and shrinking workforce are putting growing pressure on its sustainability. AI medical devices are emerging as a potential tool to ease labor shortages in healthcare, but their intangible and evolving nature makes them hard to evaluate under a system built for fixed-price drugs and devices. Drawing on two real use cases, I discussed how regulators and payers are currently improvising solutions, and where the open questions remain.</p>
+<p><object data="JapanHealthInsurance.pdf" type="application/pdf" width="100%" height="500"><a href="JapanHealthInsurance.pdf" download="">Download PDF file.</a></object></p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>presentation</category>
+  <guid>https://s-koiso.github.io/posts/JapanInsureAI042026/</guid>
+  <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://s-koiso.github.io/posts/JapanInsureAI042026/image.JPG" medium="image"/>
+</item>
+<item>
+  <title>Pandemic Response in Low- and Middle-Income Countries</title>
+  <dc:creator>Satoshi Koiso</dc:creator>
+  <link>https://s-koiso.github.io/posts/DisabilityLMICs/</link>
   <description><![CDATA[ 
 
 
@@ -114,40 +117,73 @@ https://badge.dimensions.ai/
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.</p>
+<p>The COVID-19 pandemic exposed and exacerbated pre-existing inequities in health systems worldwide, disproportionately affecting people with disabilities. In low- and middle-income countries (LMICs), these challenges were intensified by limited resources, underdeveloped or weakly enforced legal protections, fragile health infrastructure, and pervasive social stigma. As a result, people with disabilities frequently encountered barriers to timely information, preventive measures, healthcare services, and economic stability. These problems were compounded by a lack of political representation, scarcity of disability-disaggregated data, and the competing priorities that characterize policymaking during emergencies. Current advocacy for disability inclusion in pandemics often relies on humanitarian or human-rights rhetoric. While morally compelling, such arguments may have limited influences on policymaking in emergency contexts, where policymakers must prioritize among multiple urgent demands. This entry, therefore, advances pragmatic arguments for disability-inclusive pandemic responses, emphasizing their potential public health advantages, such as reducing severe infections, secondary transmissions, and outbreaks in care facilities, and economic advantages, including lower long-term healthcare costs and improved workforce participation. Organizations of Persons with Disabilities (OPDs) emerge as critical actors in bridging the gap between people with disabilities and policymakers. By gathering first-hand data, articulating their unmet needs, and demonstrating the broader benefits of inclusive strategies, OPDs can help integrate disability considerations into emergency public health planning. Strengthening disability-inclusive approaches is essential not only for safeguarding the rights of people with disabilities but also for enhancing the equity, resilience, and efficiency of health systems in LMICs in the face of future pandemics and public health emergencies.</p>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777">paper</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/PhysRev.47.777"></div>
+<p>Published <a href="https://link.springer.com/rwe/10.1007/978-3-031-40858-8_476-1">chapter</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-031-40858-8_476-1"></div>
 
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-40858-8_476-1" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{einstein1935,
-  author = {Einstein, Albert and Podolsky, Boris and Rosen, Nathan},
-  title = {Can Quantum-Mechanical Description of Physical Reality Be
-    Considered Complete?},
-  journal = {Physical Review},
-  volume = {47},
-  number = {7938},
-  pages = {777-80},
-  date = {1935-05-15},
-  url = {https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777},
-  doi = {10.1103/PhysRev.47.777},
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@incollection{koiso2026,
+  author = {Koiso, Satoshi},
+  editor = {Bennett, G. and Goodall, E.},
+  publisher = {Palgrave Macmillan},
+  title = {Pandemic {Response} in {Low-} and {Middle-Income}
+    {Countries}},
+  booktitle = {The Palgrave Encyclopedia of Disability},
+  date = {2026},
+  address = {Cham},
+  url = {https://doi.org/10.1007/978-3-031-40858-8_476-1},
+  doi = {10.1007/978-3-031-40858-8_476-1},
+  isbn = {978-3-031-40858-8},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-einstein1935" class="csl-entry quarto-appendix-citeas">
-Einstein, Albert, Boris Podolsky, and Nathan Rosen. 1935. <span>“Can
-Quantum-Mechanical Description of Physical Reality Be Considered
-Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-koiso2026" class="csl-entry quarto-appendix-citeas">
+Koiso, Satoshi. 2026. <span>“Pandemic Response in Low- and Middle-Income
+Countries.”</span> In <em>The Palgrave Encyclopedia of Disability</em>,
+edited by G. Bennett and E. Goodall. Cham: Palgrave Macmillan. <a href="https://doi.org/10.1007/978-3-031-40858-8_476-1">https://doi.org/10.1007/978-3-031-40858-8_476-1</a>.
 </div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</guid>
-  <pubDate>Wed, 15 May 1935 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
+  <category>publication</category>
+  <guid>https://s-koiso.github.io/posts/DisabilityLMICs/</guid>
+  <pubDate>Sat, 06 Dec 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://media.springernature.com/w316/springer-static/cover/book/978-3-031-40858-8.jpg?as=webp" medium="image"/>
+</item>
+<item>
+  <title>Decision Science: Policy Design and Clinical Decision-Making Through Health Economics</title>
+  <dc:creator>Satoshi Koiso</dc:creator>
+  <link>https://s-koiso.github.io/posts/DecisionScience042025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>On April 19, 2025, I presented this talk on Decision Science at the <a href="https://www.boston-researchers.jp/lecture/2025.php">Boston Japanese Researchers Forum</a>.</p>
+<p>The talk walks through three parts: what Decision Science is and the eight-step process used to analyze decisions, a hands-on example applying that process to a simple everyday choice, and real-world use cases showing how this approach has shaped national screening guidelines, vaccine recommendations, and drug pricing.</p>
+<p>Decision Science integrates economics, statistics, and behavioral science to support choices under uncertainty by explicitly weighing effects, costs, and the risk involved. Rather than relying on intuition alone, it builds simulation models including decision trees, Markov models, and others, which estimate outcomes like QALYs (quality-adjusted life years) and compare options using cost-effectiveness analysis. I worked through a flight-seat-class example step by step, including an audience exercise to elicit utility values, then showed how the same logic underlies decisions made by the USPSTF, the CDC’s ACIP, and Japan’s drug-pricing system. I closed by discussing where this approach runs into real limits when assumptions drive results, when utility is hard to measure, and when economic efficiency is not the right yardstick at all.</p>
+<p><object data="DecisionScience_En.pdf" type="application/pdf" width="100%" height="500"><a href="DecisionScience_En.pdf" download="">Download PDF file.</a></object></p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>presentation</category>
+  <guid>https://s-koiso.github.io/posts/DecisionScience042025/</guid>
+  <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://s-koiso.github.io/posts/DecisionScience042025/image.JPG" medium="image"/>
 </item>
 </channel>
 </rss>

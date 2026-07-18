@@ -1,0 +1,23 @@
+---
+title: "Cost-effectiveness Analysis of GLP-1 RA for Type 2 Diabetes Prevention among Teenagers in the U.S."
+description: "ISPOR 2026 at Philadelphia"
+author: "Satoshi Koiso"
+date: "2026-05-17"
+categories: [news]
+image: "GLP1.jpg"
+css: /custom.css
+draft: true
+---
+
+
+## Summary
+
+I'll be presenting a poster on cost-effectiveness analysis of GLP-1 RA for type 2 diabetes prevention among teenagers at [ISPOR 2026 in Philadelphia, PA](https://www.ispor.org/heor-resources/presentations-database/presentation-cti/ispor-2026/poster-session-4-3/cost-effectiveness-analysis-of-glp-1-ra-to-prevent-type-2-diabetes-among-teenagers-in-the-united-states), this May.
+
+Using a Markov model, we projected 10-year outcomes for a simulated population of US teenagers with overweight and obesity, comparing no intervention against one year of liraglutide, orlistat, or metformin treatment. We evaluated each strategy's effects on obesity, prediabetes, and diabetes rates, along with QALYs, costs, and cost-effectiveness from both healthcare and societal perspectives.
+
+Liraglutide produced the largest health gains but isn't cost-effective at current prices, while metformin emerged as the more practical, cost-effective option for expanding insurance coverage of obesity treatment in this age group. Full methods and results are in the poster, happy to discuss in more detail at the session or by message.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

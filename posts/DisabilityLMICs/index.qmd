@@ -1,0 +1,47 @@
+---
+title: "Pandemic Response in Low- and Middle-Income Countries"
+description: "The Palgrave Encyclopedia of Disability"
+subtitle: "*Palgrave Macmillan, Cham*"
+author: 
+  - name: Satoshi Koiso
+date: "2025-12-06"
+categories: [publication]
+image: "https://media.springernature.com/w316/springer-static/cover/book/978-3-031-40858-8.jpg?as=webp"
+citation:
+  type: chapter
+  title: "Pandemic Response in Low- and Middle-Income Countries"
+  container-title: "The Palgrave Encyclopedia of Disability"
+  editor:
+    - family: Bennett
+      given: G.
+    - family: Goodall
+      given: E.
+  publisher: "Palgrave Macmillan"
+  publisher-place: "Cham"
+  issued: "2026"
+  available-date: "2025-12-06"
+  isbn: "978-3-031-40858-8"
+  doi: "10.1007/978-3-031-40858-8_476-1"
+  url: "https://doi.org/10.1007/978-3-031-40858-8_476-1"
+google-scholar: true
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+
+## Abstract
+
+The COVID-19 pandemic exposed and exacerbated pre-existing inequities in health systems worldwide, disproportionately affecting people with disabilities. In low- and middle-income countries (LMICs), these challenges were intensified by limited resources, underdeveloped or weakly enforced legal protections, fragile health infrastructure, and pervasive social stigma. As a result, people with disabilities frequently encountered barriers to timely information, preventive measures, healthcare services, and economic stability. These problems were compounded by a lack of political representation, scarcity of disability-disaggregated data, and the competing priorities that characterize policymaking during emergencies. Current advocacy for disability inclusion in pandemics often relies on humanitarian or human-rights rhetoric. While morally compelling, such arguments may have limited influences on policymaking in emergency contexts, where policymakers must prioritize among multiple urgent demands. This entry, therefore, advances pragmatic arguments for disability-inclusive pandemic responses, emphasizing their potential public health advantages, such as reducing severe infections, secondary transmissions, and outbreaks in care facilities, and economic advantages, including lower long-term healthcare costs and improved workforce participation. Organizations of Persons with Disabilities (OPDs) emerge as critical actors in bridging the gap between people with disabilities and policymakers. By gathering first-hand data, articulating their unmet needs, and demonstrating the broader benefits of inclusive strategies, OPDs can help integrate disability considerations into emergency public health planning. Strengthening disability-inclusive approaches is essential not only for safeguarding the rights of people with disabilities but also for enhancing the equity, resilience, and efficiency of health systems in LMICs in the face of future pandemics and public health emergencies.
+
+## Links
+
+Published [chapter](https://link.springer.com/rwe/10.1007/978-3-031-40858-8_476-1)
+
+
+```{=html}
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-031-40858-8_476-1"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-40858-8_476-1" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```

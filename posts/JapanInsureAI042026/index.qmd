@@ -1,0 +1,25 @@
+---
+title: "Japan's Health Insurance System and Reimbursement for AI Medical Devices"
+description: "At CHOICE Graduate Seminar, University of Washington"
+author: "Satoshi Koiso"
+date: "2026-04-29"
+categories: [presentation]
+image: "image.JPG"
+#css: /custom.css
+#draft: true
+---
+
+On April 29, 2026, I presented this talk on Japan's health insurance system and reimbursement for AI medical devices at [the CHOICE Graduate Seminar, University of Washington](https://sop.washington.edu/choice/seminars-events/choice-graduate-seminar/).
+
+The talk walks through three parts: an overview of how Japan's public health insurance system is structured and financed, how medical services, drugs, and devices are approved and priced under the national fee schedule, and how AI medical devices fit or struggle to fit into that existing framework.
+
+Japan provides near-universal health coverage, but an aging population and shrinking workforce are putting growing pressure on its sustainability. AI medical devices are emerging as a potential tool to ease labor shortages in healthcare, but their intangible and evolving nature makes them hard to evaluate under a system built for fixed-price drugs and devices. Drawing on two real use cases, I discussed how regulators and payers are currently improvising solutions, and where the open questions remain.
+
+
+
+{{< pdf JapanHealthInsurance.pdf width="100%" height=500 >}}
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

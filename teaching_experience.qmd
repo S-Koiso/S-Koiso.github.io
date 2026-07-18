@@ -1,0 +1,38 @@
+---
+title: "Teaching Experience"
+description-meta: "teaching experience"
+#page-layout: full
+#back-to-top-navigation: true
+title-block-banner: false
+css: custom.css
+---
+
+
+<!--Include academic icons or buttons-->
+{{< include /files/includes/_academic.qmd >}}
+
+
+## University of Washington
+
+- [Certificate in Data Science Methods for Real-World Evidence in Health](https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-data-science-methods-for-real-world-evidence-in-health/) 
+  - Teaching Assistant | School of Pharmacy | Autumn 2026, Winter 2027, Spring 2027 (Scheduled) | Leana de la Torre
+
+- [Certificate in Health Economics, Health Technology Assessment, and Market Access](https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-health-economics-health-technology-assessment-and-market-access/)
+  - Teaching Assistant | School of Pharmacy | Autumn 2026, Winter 2027, Spring 2027 (Scheduled) | Leana de la Torre
+
+- Special topic lecture: Regression methods for health care cost and resource utilization
+  - Teaching Assistant | School of Pharmacy | Jan 2026 | Prof. Anirban Basu & Prof. Noemi Kreif
+
+
+<center><hr style="width:0%"></center>
+
+
+## Others
+
+- R Data Visualization at R Foundations and Introduction to R-HTA Modelling
+  - Instructor | [R-HTA in LMICs](https://r-hta-in-lmics.github.io/) | April 2025
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

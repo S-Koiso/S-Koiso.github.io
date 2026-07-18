@@ -11,22 +11,35 @@ css: custom.css
 <!--Include academic icons or buttons-->
 {{< include /files/includes/_academic.qmd >}}
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
-
-Total citations as of January 2025:
-
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
-
-## Selected Work
-
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+Notes: \* co-first authors
+<!-- ; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) -->
 
 
-<center><hr style="width:50%"></center>
+## Peer-reviewed Journals
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+- K. Ravishankar, K.E. Mace, **S. Koiso**, A.D. Ridpath, E. Gulbas, J. Thwing, R.C. LaRocque, S. Williams, E.T. Ryan, T.S. Brown, E.P. Hyle. Mapping hospitals that treat severe malaria cases in the United States: Evidence to inform health systems strategies for intravenous artesunate supply. *Clinical Infectious Diseases*, 2026;ciag139. doi:[10.1093/cid/ciag139](https://doi.org/10.1093/cid/ciag139) <span class="__dimensions_badge_embed__" data-doi="10.1093/cid/ciag139" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1093/cid/ciag139" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
+- **S. Koiso**, H. Lee, A.L. Ciaranello, M.S. Jalali, K.A. Freedberg, E.T. Ryan, R.C. LaRocque, E.P. Hyle. Effect of containment strategies against respiratory diseases on infections imported via international travel to the USA: a modeling study. *BMJ Open*, 2026;16:e105013. doi:[10.1136/bmjopen-2025-105013](https://doi.org/10.1136/bmjopen-2025-105013) <span class="__dimensions_badge_embed__" data-doi="10.1136/bmjopen-2025-105013" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1136/bmjopen-2025-105013" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+- T. Stanic\*, **S. Koiso**\*, N.F. Fields, A.T. Walker, N.M. Mulroy, E.T. Ryan, R.C. LaRocque, E.P. Hyle. Economic value of pre-travel health interventions for communicable diseases in international travellers. *Journal of Travel Medicine*, 2025;32(7):taaf053. doi:[10.1093/jtm/taaf053](https://doi.org/10.1093/jtm/taaf053) <span class="__dimensions_badge_embed__" data-doi="10.1093/jtm/taaf053" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1093/jtm/taaf053" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+- **S. Koiso**, E. Gulbas, L. Dike, N.M. Mulroy, A.L. Ciaranello, K.A. Freedberg, M.S. Jalali, E.T. Ryan, R.C. LaRocque, A.T. Walker, E.P. Hyle. Modeling approaches to inform travel-related policies for COVID-19 containment: a scoping review and future directions. *Travel Medicine and Infectious Disease*, 2024;62:102730. doi:[10.1016/j.tmaid.2024.102730](https://doi.org/10.1016/j.tmaid.2024.102730) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tmaid.2024.102730" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.tmaid.2024.102730" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+- L. Kakoullis, R. Steffen, M. Goeijenbier, A. Osterhaus, S.R. Rao, **S. Koiso**, E.P. Hyle, E.T. Ryan, R.C. LaRocque, L.H. Chen. Influenza: seasonality and travel-related considerations. *Journal of Travel Medicine*, 2023;30(5):taad102. doi:[10.1093/jtm/taad102](https://doi.org/10.1093/jtm/taad102) <span class="__dimensions_badge_embed__" data-doi="10.1093/jtm/taad102" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1093/jtm/taad102" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+
+## Working Papers
+
+- E.P. Hyle, L. Ang, G. Luu, P. Kasaie, D. Dai, **S. Koiso**, J. Phelan, F. Ebem, C. Duggan, E. Humes, P.E. Sax, L. Gerace, J. Giardina, E.J. Orav, A.M. Neilan, A. Pandya, J.F. Figueroa, K.N. Althoff, K.A. Freedberg. Costs associated with increasing numbers of Medicare beneficiaries with HIV aged 65 years and older from 2026 to 2035. *medRxiv*, 2025. doi:[10.64898/2025.12.19.25342703](https://doi.org/10.64898/2025.12.19.25342703) **[Accepted by *JAMA Network Open*]** <span class="__dimensions_badge_embed__" data-doi="10.64898/2025.12.19.25342703" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.64898/2025.12.19.25342703" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+- M. Walker, A. Huang, S. Asman, S. Baird, L. Fernald, J. Hamory, F.H. de la Guardia, **S. Koiso**, M. Kremer, M. Krupoff, M. Layvant, E. Ochieng, P. Suri, E. Miguel. Intergenerational Child Mortality Impacts of Deworming: Experimental Evidence from Two Decades of the Kenya Life Panel Survey. *NBER Working Paper*, no. 31162. 2023. **[Accepted by *American Economic Journal: Applied Economics*]**
+
+
+## Other Works
+
+- Book chapter: **S. Koiso**. (2026). Pandemic Responses in Low- and Middle-Income Countries. In: Bennett, G., Goodall, E. (eds) *The Palgrave Encyclopedia of Disability*. Palgrave Macmillan, Cham. doi:[10.1007/978-3-031-40858-8_476-1](https://doi.org/10.1007/978-3-031-40858-8_476-1) <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-40858-8_476-1" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1007/978-3-031-40858-8_476-1" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+- Editorial: **S. Koiso**, E.P. Hyle. Cost-Effectiveness of the 2023 to 2024 COVID-19 Booster Vaccine-Reducing Barriers to Access. *JAMA Network Open*. 2025 Aug 1;8(7):e2523695. doi:[10.1001/jamanetworkopen.2025.23695](https://doi.org/10.1001/jamanetworkopen.2025.23695) <span class="__dimensions_badge_embed__" data-doi="10.1001/jamanetworkopen.2025.23695" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1001/jamanetworkopen.2025.23695" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 
 <!--Include social share buttons-->
