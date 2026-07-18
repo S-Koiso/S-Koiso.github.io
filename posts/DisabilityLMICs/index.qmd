@@ -37,7 +37,7 @@ The COVID-19 pandemic exposed and exacerbated pre-existing inequities in health 
 
 ## Links
 
-Published [chapter](https://link.springer.com/rwe/10.1007/978-3-031-40858-8_476-1) [PDF](files/PalgraveEncyclopediaofDisability.pdf)
+Published [chapter](https://link.springer.com/rwe/10.1007/978-3-031-40858-8_476-1) [[PDF](files/PalgraveEncyclopediaofDisability.pdf)]
 
 
 ```{=html}
