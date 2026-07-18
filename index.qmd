@@ -70,22 +70,29 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I am a PhD student in Health Economics and Outcomes Research at the Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute at the University of Washington. My research focuses on health decision science and economic evaluation, with the goal of quantifying the value of evidence and translating uncertainty into actionable guidance for policymakers, particularly on behalf of populations whose voices are often absent from the data.
+I am a PhD student in Health Economics and Outcomes Research at the Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute at the University of Washington. My research focuses on health decision science and economic evaluation, with the goal of quantifying the value of policies and translating uncertainty into actionable guidance for policymakers, particularly on behalf of populations whose voices are often absent from the data.
 
 My area of interest centers on:
 <!-- Value of information for public policymaking, including quantifying the benefits of generating further scientific evidence through clinical research and social experiments, so that limited public budgets can be allocated where additional evidence will most reduce uncertainty and improve decisions; -->
 
-1. Economic evaluation for underrepresented populations worldwide, through the use of simulation modeling to estimate the potential effects of policies and clinical measures where empirical evidence is limited and decisions have historically been made anecdotally rather than through rigorous, evidence-based analysis
+1. Economic evaluation for underrepresented populations worldwide, through the use of simulation modeling to estimate the potential effects of policies and clinical measures where empirical evidence is limited and decisions have historically been made anecdotally rather than through rigorous, evidence-based analysis.
 
 2. Methodological development for emerging public health threats, including new health economic approaches suited to high-uncertainty, rapidly evolving challenges such as future pandemics, climate change, and artificial intelligence, where conventional methods struggle to keep pace.
+
+In the future, I aspire to two intertwined roles.
+
+
+- As a policy advisor, I aim to bring rigorous methods to bear on real decision-making problems, translating complex evidence into clear, actionable guidance at the table where policy is actually made.
+
+- As an educator, I hope to share not only technical skills but the lessons I have learned navigating research across disciplines, institutions, and cultures, nurturing the next generation of scholars and co-creating knowledge with them rather than simply transmitting it.
 
 I am a strong believer in the power of diversity, equity, and inclusion, and have supported this commitment outside my professional work, including serving as a scientific committee member of the R-HTA in Low- and Middle-Income Countries chapter, and completing a solo cycling fundraising ride along Route 66 to support family and community health efforts in Nigeria. My aspiration is to help build a world where everyone, regardless of where they live or how readily their voice is currently heard, can pursue their fullest, healthiest life.
 
 
 ## Experience
-- Research Intern, Health Division, Directorate for Employment, Labour, and Social Affairs, Organisation for Economic Co-operation and Development, Paris, France (Jun-Aug 2026)
+- Research Intern, Health Division, Directorate for Employment, Labour, and Social Affairs, Organisation for Economic Co-operation and Development (OECD), Paris, France (Jun-Aug 2026)
 - Research Specialist, Medical Practice Evaluation Center, Massachusetts General Hospital, Boston, MA (Jul 2022-Jun 2025)
-- Research Collaborator, International Food Policy Research Institute (Jul-Nov 2022)
+- Research Consultant, International Food Policy Research Institute (Jul-Nov 2022)
 - Graduate Student Researcher, Center for Effective Global Action, University of California at Berkeley, Berkeley, CA (May 2021-May 2022)
 - Consultant, Health & Public Service, Accenture Japan, Tokyo, Japan (Nov 2017-Aug 2020)
 - Policy Analyst/Project Coordinator, Ministry of Agriculture, Forestry and Fisheries, Tokyo, Japan (Apr 2016-Mar 2017)

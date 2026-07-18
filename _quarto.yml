@@ -25,8 +25,8 @@ website:
         href: grants.qmd
       - text: Teaching # Comment the Teaching part out to remove the Teaching page
         menu:
-          - text: Resources
-            href: resources_toc.qmd
+#          - text: Resources
+#            href: resources_toc.qmd
           - text: Experience
             href: teaching_experience.qmd
       - text: Outreach
@@ -44,8 +44,8 @@ website:
     right:
       - text: "English"
         href: index.html
-      - text: "日本語"
-        href: ja/index.html
+#      - text: "日本語"
+#        href: ja/index.html
 #      - icon: github
 #        href: https://github.com/S-Koiso
 #        target: _blank
