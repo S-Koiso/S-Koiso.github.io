@@ -27,40 +27,6 @@
   <media:content url="https://s-koiso.github.io/files/images/data.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Cost-effectiveness Analysis of GLP-1 RA for Type 2 Diabetes Prevention among Teenagers in the U.S.</title>
-  <dc:creator>Satoshi Koiso</dc:creator>
-  <link>https://s-koiso.github.io/posts/ISPOR052026/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>I’ll be presenting a poster on cost-effectiveness analysis of GLP-1 RA for type 2 diabetes prevention among teenagers at <a href="https://www.ispor.org/heor-resources/presentations-database/presentation-cti/ispor-2026/poster-session-4-3/cost-effectiveness-analysis-of-glp-1-ra-to-prevent-type-2-diabetes-among-teenagers-in-the-united-states">ISPOR 2026 in Philadelphia, PA</a>, this May.</p>
-<p>Using a Markov model, we projected 10-year outcomes for a simulated population of US teenagers with overweight and obesity, comparing no intervention against one year of liraglutide, orlistat, or metformin treatment. We evaluated each strategy’s effects on obesity, prediabetes, and diabetes rates, along with QALYs, costs, and cost-effectiveness from both healthcare and societal perspectives.</p>
-<p>Liraglutide produced the largest health gains but isn’t cost-effective at current prices, while metformin emerged as the more practical, cost-effective option for expanding insurance coverage of obesity treatment in this age group. Full methods and results are in the poster, happy to discuss in more detail at the session or by message.</p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <guid>https://s-koiso.github.io/posts/ISPOR052026/</guid>
-  <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://s-koiso.github.io/posts/ISPOR052026/GLP1.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>Japan’s Health Insurance System and Reimbursement for AI Medical Devices</title>
   <dc:creator>Satoshi Koiso</dc:creator>
   <link>https://s-koiso.github.io/posts/JapanInsureAI042026/</link>
@@ -121,7 +87,7 @@ https://badge.dimensions.ai/
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://link.springer.com/rwe/10.1007/978-3-031-40858-8_476-1">chapter</a></p>
+<p>Published <a href="https://link.springer.com/rwe/10.1007/978-3-031-40858-8_476-1">chapter</a> <a href="files/PalgraveEncyclopediaofDisability.pdf">PDF</a></p>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-031-40858-8_476-1"></div>
 
 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-40858-8_476-1" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
