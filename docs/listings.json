@@ -8,14 +8,6 @@
     ]
   },
   {
-    "listing": "/ja/projects.html",
-    "items": []
-  },
-  {
-    "listing": "/grants.html",
-    "items": []
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/posts/JapanInsureAI042026/index.html",
@@ -24,7 +16,7 @@
     ]
   },
   {
-    "listing": "/ja/index.html",
+    "listing": "/grants.html",
     "items": []
   },
   {

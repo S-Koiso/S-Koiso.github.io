@@ -1,5 +1,5 @@
 ---
-title: "Satoshi Koiso"
+title: "Satoshi Koiso/小磯 聡"
 description-meta: "Quarto Academic Website Template adapted by Satoshi Koiso"
 image: "files/images/myface.JPG"
 page-navigation: false
@@ -70,6 +70,10 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
+::: {.panel-tabset}
+
+## English
+
 I am a PhD student in Health Economics and Outcomes Research at the Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute at the University of Washington. My research focuses on health decision science and economic evaluation, with the goal of quantifying the value of policies and translating uncertainty into actionable guidance for policymakers, particularly on behalf of populations whose voices are often absent from the policymaking process.
 
 My area of interest includes:
@@ -88,8 +92,7 @@ In the future, I aspire to two intertwined roles:
 
 I am a strong believer in the power of diversity, equity, and inclusion, and have supported this commitment outside my professional work, including serving as a scientific committee member of [the R-HTA in Low- and Middle-Income Countries chapter](https://r-hta-in-lmics.github.io/), and completing [a solo cycling fundraising ride along Route 66](https://readyfor.jp/projects/bike_r66) to support family and community health efforts in Nigeria. My aspiration is to help build a world where everyone, regardless of where they live or how readily their voice is currently heard, can pursue their fullest, healthiest life.
 
-
-## Experience
+### Experience
 - Research Intern, Health Division, Directorate for Employment, Labour, and Social Affairs, Organisation for Economic Co-operation and Development (OECD), Paris, France (Jun-Aug 2026)
 - Research Specialist, Medical Practice Evaluation Center, Massachusetts General Hospital, Boston, MA (Jul 2022-Jun 2025)
 - Research Consultant, International Food Policy Research Institute (Jul-Nov 2022)
@@ -97,10 +100,47 @@ I am a strong believer in the power of diversity, equity, and inclusion, and hav
 - Consultant, Health & Public Service, Accenture Japan, Tokyo, Japan (Nov 2017-Aug 2020)
 - Policy Analyst/Project Coordinator, Ministry of Agriculture, Forestry and Fisheries, Tokyo, Japan (Apr 2016-Mar 2017)
 
-## Education
+### Education
 - PhD in Health Economics & Outcomes Research, The Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute, School of Pharmacy, University of Washington, Seattle, WA (Sep 2025-Present)
 - Master of Development Practice, Goldman School of Public Policy, University of California, Berkeley, Berkeley, CA (May 2022)
 - Bachelor of Veterinary Science (DVM equivalent), The University of Tokyo, Tokyo, Japan (Mar 2016)
+
+## 日本語
+
+米国シアトルのワシントン大学CHOICE Institute（Comparative Health Outcomes, Policy, and Economics）にて、医療経済・アウトカム研究（Health Economics and Outcomes Research）の博士課程に在籍しています。医療における意思決定科学と経済評価を専門とし、不確実な状況下における医療政策の経済的価値を定量化することで、政策立案者に意思決定の指針を示すことを目指しています。特に、政策立案の現場で、声が届きにくい社会的弱者の視点を届けることを大切にしています。
+
+関心のあるテーマは以下の通りです。
+
+1. あらゆる国において、社会的弱者を対象とした経済評価。実証的なエビデンスが乏しく、これまで経験則や政治的圧力に基づいて意思決定がなされてきた政策・臨床上の施策について、数理・統計モデルを用いてその医療効果・経済効果を推計します。
+
+2. 新興の公衆衛生上の脅威に対応するための研究手法の開発。将来のパンデミック、気候変動、人工知能など、不確実性が高く急速に変化する課題など、従来の手法では対応が難しい領域に適した新たな医療経済学的アプローチを構築しています。
+
+将来的には、以下の二つの役割を担いたいと考えています。
+
+- **政策アドバイザー**として、厳密な研究手法を実際の意思決定の現場に活かし、複雑なエビデンスを、人々の健康や臨床に関する意思決定が実際になされる場において、明確で実践的な指針へと昇華すること。
+
+- **教育者**として、技術的なスキルだけでなく、分野・組織・文化を横断して研究に取り組んできた自らの経験を伝え、次世代の研究者を育みながら、一方的に知識を伝えるのではなく共に知識を作り上げていくこと。
+
+
+多様性・公平性・包摂性（DEI）の力を強く信じており、本業以外でもその実践に取り組んでいます。[R-HTA in Low- and Middle-Income Countries chapter](https://r-hta-in-lmics.github.io/) の運営委員を務めているほか、ナイジェリアの家族・地域医療の支援のため、[ルート66を単独で自転車横断するチャリティーライド](https://readyfor.jp/projects/bike_r66) を行いました。どこに暮らしていても、また声が政策立案に届きやすい立場にあるかどうかにかかわらず、誰もが自分らしく人生を全うできる世界の実現に貢献したいと考えています。
+
+### 経歴
+
+- 経済協力開発機構（OECD）、雇用労働社会政策局 保健医療課、研究インターン、パリ（2026年6月〜8月）
+- マサチューセッツ総合病院、Medical Practice Evaluation Center、特任研究員、ボストン（2022年7月〜2025年6月）
+- 国際食料政策研究所（IFPRI）、研究コンサルタント（2022年7月〜11月）
+- カリフォルニア大学バークレー校、Center for Effective Global Action、大学院研究生（2021年5月〜2022年5月）
+- アクセンチュア株式会社、公共医療健康部門、コンサルタント（2017年11月〜2020年8月）
+- 農林水産省、政策分析官／プロジェクトコーディネーター（2016年4月〜2017年3月）
+
+### 学歴
+
+- ワシントン大学、CHOICE Institute、博士課程（医療経済・アウトカム研究）（2025年9月〜在学中）
+- カリフォルニア大学バークレー校、ゴールドマン公共政策大学院、国際開発学修士（2022年5月）
+- 東京大学、農学部獣医学士（2016年3月卒）
+- 東京大学、教養学部文科一類（2010年4月入学）
+
+:::
 
 :::
 
