@@ -57,7 +57,7 @@ website:
   page-navigation: true
 
   page-footer:
-    left: "[Satoshi Koiso](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>"
+    left: "[Satoshi Koiso](http://s-koiso.github.io/SatoshiKoiso/) &copy; <script>document.write(new Date().getFullYear())</script>"
     center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template)"
     right:
 #      - icon: github
