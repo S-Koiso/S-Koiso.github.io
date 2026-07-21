@@ -7,9 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Satoshi Koiso">
-<meta name="description" content="Posts about papers, presentations, teaching, and more">
+<meta name="dcterms.date" content="2025-04-19">
+<meta name="description" content="Quarto Academic Website Template">
 
-<title>What’s New &amp; Updated – Satoshi Koiso</title>
+<title>意思決定を科学する：医療経済学の手法で考える政策立案・治療方針 – Satoshi Koiso</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,24 +26,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,35 +68,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id="></script>
 
 <script type="text/javascript">
@@ -128,44 +98,15 @@ https://badge.dimensions.ai/
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Satoshi Koiso" href="posts.xml" data-external="1"><meta property="og:title" content="What’s New &amp; Updated – Satoshi Koiso">
-<meta property="og:description" content="Posts about papers, presentations, teaching, and more">
-<meta property="og:image" content="https://media.springernature.com/w316/springer-static/cover/book/978-3-031-40858-8.jpg?as=webp">
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="意思決定を科学する：医療経済学の手法で考える政策立案・治療方針 – Satoshi Koiso">
+<meta property="og:description" content="於　ボストン日本人研究者交流会">
+<meta property="og:image" content="https://s-koiso.github.io/posts/DecisionScience042025_ja/image.jpg">
 <meta property="og:site_name" content="Satoshi Koiso">
-<meta name="twitter:title" content="What’s New &amp; Updated – Satoshi Koiso">
-<meta name="twitter:description" content="Posts about papers, presentations, teaching, and more">
-<meta name="twitter:image" content="https://media.springernature.com/w316/springer-static/cover/book/978-3-031-40858-8.jpg?as=webp">
+<meta name="twitter:title" content="意思決定を科学する：医療経済学の手法で考える政策立案・治療方針 – Satoshi Koiso">
+<meta name="twitter:description" content="於　ボストン日本人研究者交流会">
+<meta name="twitter:image" content="https://s-koiso.github.io/posts/DecisionScience042025_ja/image.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -176,7 +117,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Satoshi Koiso</span>
     </a>
   </div>
@@ -187,15 +128,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./posts.html" aria-current="page"> 
+    <a class="nav-link" href="../../posts.html"> 
 <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./grants.html"> 
+    <a class="nav-link" href="../../grants.html"> 
 <span class="menu-text">Grants</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -204,7 +145,7 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-teaching">    
         <li>
-    <a class="dropdown-item" href="./teaching_experience.html">
+    <a class="dropdown-item" href="../../teaching_experience.html">
  <span class="dropdown-text">Experience</span></a>
   </li>  
     </ul>
@@ -215,17 +156,17 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-outreach">    
         <li>
-    <a class="dropdown-item" href="./posts.html#category=presentation">
+    <a class="dropdown-item" href="../../posts.html#category=presentation">
  <span class="dropdown-text">Presentations</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./files/Curriculum Vitae_SatoshiKoiso_20260611.pdf" target="_blank"> 
+    <a class="nav-link" href="../../files/Curriculum Vitae_SatoshiKoiso_20260611.pdf" target="_blank"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
+    <a class="nav-link" href="../../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -244,23 +185,43 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div><div class="category" data-category="presentation">presentation <span class="quarto-category-count">(3)</span></div><div class="category" data-category="publication">publication <span class="quarto-category-count">(1)</span></div><div class="category" data-category="teaching">teaching <span class="quarto-category-count">(1)</span></div><div class="category" data-category="日本語">日本語 <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">What’s New &amp; Updated</h1>
-<p class="subtitle lead">Posts about papers, presentations, teaching, and more</p>
-</div>
+<h1 class="title">意思決定を科学する：医療経済学の手法で考える政策立案・治療方針</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">presentation</div>
+    <div class="quarto-category">日本語</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    於　ボストン日本人研究者交流会
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>小磯　聡 </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">April 19, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -270,216 +231,24 @@ window.Quarto = {
 </header>
 
 
-<div id="posts">
+<p>2025年4月19日、<a href="https://www.boston-researchers.jp/lecture/2025.php">ボストン日本人研究者交流会</a>にて、意思決定科学をテーマに発表を行いました。</p>
+<p>発表は三部構成です。１）八段階の分析プロセスに基づく意思決定科学の概論、２）その分析手法を日常のシンプルな選択に当てはめた例、３）国のスクリーニングガイドライン、ワクチン接種スケジュール、薬価設定にこの手法がどう活かされているかを示す事例紹介、という流れです。</p>
+<p>意思決定科学とは、経済学・統計学・行動科学を統合し、効果・費用・リスクを明示的に比較することで、不確実性の下での意思決定を支援する分野です。直感だけに頼るのではなく、意思決定木モデル（decision tree）やマルコフモデルといったシミュレーションモデルを構築し、QALY（質調整生存年）などのアウトカムを推計したうえで、費用対効果分析によって選択肢を比較します。発表では、飛行機の座席クラス選びを題材に、聴衆自身に効用値を答えてもらう演習を交えながら段階的に解説し、同じロジックが米国予防医療専門委員会（USPSTF）、米国CDCのACIP（予防接種諮問委員会）、そして日本の薬価制度における意思決定の根底にもあることを示しました。最後に、前提が結果を大きく左右してしまう場合、効用の測定が難しい場合、そしてそもそも経済効率性が適切な尺度ではない場合など、この手法が実際に直面する限界にも触れました。</p>
+<p><object data="DecisionScience_Ja.pdf" type="application/pdf" width="100%" height="500"><a href="DecisionScience_Ja.pdf" download="">Download PDF file.</a></object></p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
-</div>
 
 
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="news,teaching" data-listing-date-sort="1781827200000">
-<div class="thumbnail">
-<p><a href="https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-data-science-methods-for-real-world-evidence-in-health/" class="no-external"></a></p><a href="https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-data-science-methods-for-real-world-evidence-in-health/" class="no-external">
-<p><img loading="lazy" src="./files/images/data.jpg" class="thumbnail-image"></p>
-</a><p><a href="https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-data-science-methods-for-real-world-evidence-in-health/" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-data-science-methods-for-real-world-evidence-in-health/" class="no-external">TA for Online Certificate Programs at CHOICE Institute</a>
-</h3>
-<div class="listing-subtitle">
-<a href="https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-data-science-methods-for-real-world-evidence-in-health/" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('teaching'); return false;">
-teaching
-</div>
-</div>
-<div class="listing-description">
-<a href="https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-data-science-methods-for-real-world-evidence-in-health/" class="no-external">I will be serving as a TA for the online certificate programs at CHOICE Institute, University of Washington. The course will be offered in 2026 academic year! Looking forward to working with the students and instructors!</a>
-</div>
-</div>
-<div class="metadata">
-<a href="https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-data-science-methods-for-real-world-evidence-in-health/" class="no-external">
-<div class="listing-date">
-Jun 19, 2026
-</div>
-<div class="listing-author">
-Satoshi Koiso
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="presentation" data-listing-date-sort="1777420800000" data-listing-file-modified-sort="1781920669107" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="160">
-<div class="thumbnail">
-<p><a href="./posts/JapanInsureAI042026/index.html" class="no-external"></a></p><a href="./posts/JapanInsureAI042026/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/JapanInsureAI042026/image.JPG" class="thumbnail-image"></p>
-</a><p><a href="./posts/JapanInsureAI042026/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/JapanInsureAI042026/index.html" class="no-external">Japan’s Health Insurance System and Reimbursement for AI Medical Devices</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/JapanInsureAI042026/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('presentation'); return false;">
-presentation
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/JapanInsureAI042026/index.html" class="no-external">At CHOICE Graduate Seminar, University of Washington</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/JapanInsureAI042026/index.html" class="no-external">
-<div class="listing-date">
-Apr 29, 2026
-</div>
-<div class="listing-author">
-Satoshi Koiso
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="publication" data-listing-date-sort="1764979200000" data-listing-file-modified-sort="1784374628068" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="270">
-<div class="thumbnail">
-<p><a href="./posts/DisabilityLMICs/index.html" class="no-external"></a></p><a href="./posts/DisabilityLMICs/index.html" class="no-external">
-<p><img loading="lazy" src="https://media.springernature.com/w316/springer-static/cover/book/978-3-031-40858-8.jpg?as=webp" class="thumbnail-image"></p>
-</a><p><a href="./posts/DisabilityLMICs/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/DisabilityLMICs/index.html" class="no-external">Pandemic Response in Low- and Middle-Income Countries</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/DisabilityLMICs/index.html" class="no-external"><em>Palgrave Macmillan, Cham</em></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('publication'); return false;">
-publication
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/DisabilityLMICs/index.html" class="no-external">The Palgrave Encyclopedia of Disability</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/DisabilityLMICs/index.html" class="no-external">
-<div class="listing-date">
-Dec 6, 2025
-</div>
-<div class="listing-author">
-Satoshi Koiso
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="presentation" data-listing-date-sort="1745020800000" data-listing-file-modified-sort="1781920616894" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="194">
-<div class="thumbnail">
-<p><a href="./posts/DecisionScience042025/index.html" class="no-external"></a></p><a href="./posts/DecisionScience042025/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/DecisionScience042025/image.JPG" class="thumbnail-image"></p>
-</a><p><a href="./posts/DecisionScience042025/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/DecisionScience042025/index.html" class="no-external">Decision Science: Policy Design and Clinical Decision-Making Through Health Economics</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/DecisionScience042025/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('presentation'); return false;">
-presentation
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/DecisionScience042025/index.html" class="no-external">At Boston Japanese Researchers Forum</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/DecisionScience042025/index.html" class="no-external">
-<div class="listing-date">
-Apr 19, 2025
-</div>
-<div class="listing-author">
-Satoshi Koiso
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="presentation,日本語" data-listing-date-sort="1745020800000" data-listing-file-modified-sort="1784651084441" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="13">
-<div class="thumbnail">
-<p><a href="./posts/DecisionScience042025_ja/index.html" class="no-external"></a></p><a href="./posts/DecisionScience042025_ja/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/DecisionScience042025_ja/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/DecisionScience042025_ja/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/DecisionScience042025_ja/index.html" class="no-external">意思決定を科学する：医療経済学の手法で考える政策立案・治療方針</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/DecisionScience042025_ja/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('presentation'); return false;">
-presentation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('日本語'); return false;">
-日本語
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/DecisionScience042025_ja/index.html" class="no-external">於　ボストン日本人研究者交流会</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/DecisionScience042025_ja/index.html" class="no-external">
-<div class="listing-date">
-Apr 19, 2025
-</div>
-<div class="listing-author">
-小磯　聡
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -918,7 +687,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="./posts.xml" target="_blank">
+    <a class="nav-link" href="../../posts.xml" target="_blank">
       <i class="bi bi-rss" role="img">
 </i> 
     </a>
