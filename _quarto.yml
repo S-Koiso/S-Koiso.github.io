@@ -34,7 +34,7 @@ website:
         - text: Presentations
           href: posts.qmd#category=presentation
       - text: CV
-        href: files/Curriculum Vitae_SatoshiKoiso_20260611.pdf
+        href: files/Curriculum Vitae_SatoshiKoiso_20260723.pdf
         target: _blank
       - text: Contact
         href: contact.qmd
